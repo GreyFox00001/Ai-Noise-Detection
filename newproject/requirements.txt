@@ -1,0 +1,8 @@
+streamlit==1.33.0
+numpy==1.24.3
+librosa==0.10.1
+pandas==1.5.3
+tensorflow==2.12.0
+scikit-learn==1.2.2
+sounddevice==0.4.6
+wavio==0.0.4
